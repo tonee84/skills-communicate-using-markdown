@@ -2,6 +2,17 @@
 
 add my first line as a markdown lesson
 
+*Hello, *world*!*
+
+**Hello, *world*!**
+
+***Hello, world!***
+
+___Hello, world!___
+
+### Hello world!
+
+
 ```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
